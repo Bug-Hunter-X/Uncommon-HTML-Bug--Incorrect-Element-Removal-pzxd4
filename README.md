@@ -1,0 +1,1 @@
+This repository demonstrates a common mistake in HTML and provides the correct solution.  The bug involves incorrectly using innerHTML to remove an element from the DOM, which can lead to unexpected behavior. The solution shows the proper method using removeChild.
